@@ -1,0 +1,30 @@
+{
+  "keywords": [
+    "Engineering Manager",
+    "Production Manager",
+    "Automation Manager",
+    "Head of Electrical & Automation",
+    "PLC Siemens S7-1500 / S7-1200 / S7-300",
+    "HMI / SCADA WinCC",
+    "Predictive Maintenance (Bảo trì dự đoán)",
+    "Digital Twin / Enterprise Digital Twin",
+    "Google Agent Development Kit (Google ADK)",
+    "IEC 61508 / GAMP-5 / FDA 21 CFR Part 11",
+    "Low-cost Automation (LCA)",
+    "GMP Dược phẩm"
+  ],
+  "location": "Ho Chi Minh",
+  "platforms": {
+    "vietnamworks": false,
+    "topcv": false,
+    "linkedin": false,
+    "careerbuilder": false,
+    "itviec": false
+  },
+  "antiBotConfig": {
+    "humanDelayMin": 3,
+    "humanDelayMax": 7,
+    "userAgentSpoofing": true,
+    "semiAutonomous": true
+  }
+}

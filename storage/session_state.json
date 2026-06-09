@@ -1,0 +1,12 @@
+{
+  "loggedIn": true,
+  "lastLogin": "2026-05-29T08:14:22Z",
+  "username": "tuanvo.kta@gmail.com",
+  "cookiesCount": 18,
+  "localStorageKeys": [
+    "vietnamworks_user_token",
+    "vietnamworks_session_id",
+    "topcv_auth_payload"
+  ],
+  "sessionFile": "storage/session_state.json"
+}

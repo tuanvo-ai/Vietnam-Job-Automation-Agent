@@ -1,0 +1,6 @@
+{
+  "name": "Vietnam Job Automation Agent",
+  "description": "Interactive control panel, profile manager, and Gemini-powered job analysis engine for the Vietnam Job Automation Agent (VJAA). Analyze Job Descriptions against your profile, generate personalized Vietnamese cover letters, and manage automation keywords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
